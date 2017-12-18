@@ -121,6 +121,9 @@
 			text-align: right;
 			padding-right: 20px;
 		}
+		.workall.skills{
+			text-align: center;
+		}
 		.workall{
 			margin-left: 25px;
 			text-align: left;
@@ -2343,8 +2346,8 @@
 
 		.image.fit {
 			display: block;
-			margin: 0 0 2em 3em;
-			width: 80%;
+			margin: 0 0 2em 1.5em;
+			width: 92%;
 		}
 
 			.image.fit img {
@@ -2386,6 +2389,11 @@
 		}
 		ul li i {
 			font-size: 40px;
+		}
+		ul li.nostyle{
+			float: none;
+			width: auto;
+			height: auto;
 		}
 
 		ul.alt {
