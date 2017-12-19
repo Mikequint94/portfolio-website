@@ -57,9 +57,16 @@
 	}
 
 /* Containers */
+	
+	li .largerfont{
+		font-size: 1.4em;
+	}
 
 	.ontop{
 		z-index: 1;
+	}
+	#header .inner h3{
+		margin: 0 0 0.5em 0;
 	}
 
 	.container {
