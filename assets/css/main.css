@@ -236,6 +236,15 @@
 		.container {
 			width: 100% !important;
 		}
+		
+		.infotitle{
+			flex: 0 0 110px;
+			text-align: right;
+			padding-right: 10px;
+		}
+		.workall {
+    margin-left: 12px;
+}
 
 	}
 
