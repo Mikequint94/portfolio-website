@@ -2373,6 +2373,9 @@
 			.image.fit img {
 				width: 100%;
 			}
+			.row:first-child .image.fit img{
+				width: 50%;
+			}
 
 /* List */
 
